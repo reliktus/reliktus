@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reliktus
 - 👀 I’m interested in automation via JS/PHP/PYTHON
-- 🌱 I’m currently learning Electron
+- 🌱 I’m currently learning Electron / Node.js / scrapping 
 - 📫 You can reach me reliktus@gmail.com
 
 <!---
